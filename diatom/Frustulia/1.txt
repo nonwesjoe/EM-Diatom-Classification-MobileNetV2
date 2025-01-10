@@ -1,0 +1,5 @@
+Category:Symmetric Biraphid
+Class:Bacillariophyceae
+Order:Naviculales
+Family:Amphipleuraceae
+Description:泛世界性的物种，尤其常见于欧亚大陆和北美亚热带以北,在泥炭沼泽和其他腐殖酸水域中很常见, pH 值呈嗜酸性或真正的酸性；广泛适应有机污染,高需氧量。

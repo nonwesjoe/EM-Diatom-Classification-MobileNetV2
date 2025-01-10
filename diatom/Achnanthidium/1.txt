@@ -1,0 +1,5 @@
+Category:Monoraphid
+Class:Bacillariophyceae
+Order:Achnanthales
+Family:Achnanthidiaceae
+Description:它主要分布在河流上游,它经常伴随着蓝藻。

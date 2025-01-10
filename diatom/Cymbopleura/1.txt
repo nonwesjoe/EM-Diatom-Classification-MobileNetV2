@@ -1,0 +1,6 @@
+Category:Asymmetric Biraphid
+Class:Bacillariophyceae
+Order:Cymbellales
+Family:Cymbellaceae
+Description:可能广泛分布在两个半球的温带和亚北极地区，也分布在热带山区,出现在湖泊和河流中.被认为是苯酚废水污染的指标物种
+

@@ -1,0 +1,5 @@
+Category:Symmetric Biraphid
+Class:Bacillariophyceae
+Order:Naviculales
+Family:Naviculaceae
+Description:淡水性pH 值呈中性的物种

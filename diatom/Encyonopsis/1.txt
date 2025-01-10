@@ -1,0 +1,6 @@
+Category:Asymmetric Biraphid
+Class:Bacillariophyceae
+Order:Cymbellales
+Family:Cymbellaceae
+Description:泛世界性物种,淡水性.
+

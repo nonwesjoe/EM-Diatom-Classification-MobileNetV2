@@ -1,0 +1,5 @@
+Category:Symmetric Biraphid
+Class:Bacillariophyceae
+Order:Naviculales
+Family:Pinnulariaceae
+Description:生活在含有适度电解质的水域中

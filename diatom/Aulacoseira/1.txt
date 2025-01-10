@@ -1,0 +1,6 @@
+Category:Centric
+Class:Coscinodiscophyceae
+Order:Aulacoseirales
+Family:Aulacoseiraceae
+Description:浮游,分布在河流,富营养的湖泊
+

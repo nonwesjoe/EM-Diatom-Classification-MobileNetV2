@@ -1,0 +1,6 @@
+Category:Asymmetric Biraphid
+Class:Bacillariophyceae
+Order:Cymbellales
+Family:Gomphonemataceae
+Description:虽然在富营养化水域中很常见，但它对水污染很敏感，不能承受大于β-介质水的污染。
+

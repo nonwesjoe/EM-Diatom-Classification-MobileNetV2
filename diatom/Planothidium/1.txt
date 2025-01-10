@@ -1,0 +1,6 @@
+Category:Monoraphid
+Class:Bacillariophycideae
+Order:Achnanthales
+Family:Achnanthidiaceae
+Description:它具有广泛的适应性；从自来水到静态水，从低电解质含量到高电解质含量，中性到碱性，但它也可以出现在污染水域中。它在河流和泉水中尤其丰富。
+

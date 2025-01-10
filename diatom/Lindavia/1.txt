@@ -1,0 +1,6 @@
+Category:Centric
+Class:Bacillariophyceae
+Order:Thalassiosirales
+Family:Thalassiosiraceae
+Description:主要分布在清水湖泊和沼泽、北部和冷水地区.
+

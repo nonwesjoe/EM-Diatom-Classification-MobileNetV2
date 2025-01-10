@@ -1,0 +1,6 @@
+Category:Monoraphid
+Class:Bacillariophyceae
+Order:Achnanthales
+Family:Achnanthaceae
+Description:通常是海洋的，但也可以在淡水中找到。在半气生的环境中也有很多。
+

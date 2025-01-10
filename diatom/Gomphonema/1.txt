@@ -1,0 +1,5 @@
+Category:Asymmetric Biraphid
+Class:Bacillariophyceae
+Order:Cymbellales
+Family:Gomphonemataceae
+Description:在各种环境中，但在中营养和中性至微碱性水域中尤其常见。嗜碱。

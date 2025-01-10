@@ -1,0 +1,6 @@
+Category:Asymmetric Biraphid
+Class:Bacillariophyceae
+Order:Cymbellales
+Family:Cymbellaceae
+Description:富营养的湖泊 在流动水域，特别是河流上游，有更多的倾向出现.
+

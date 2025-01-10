@@ -1,0 +1,5 @@
+Category Symmetric:Biraphid
+Class:Bacillariophyceae
+Order:Naviculales
+Family:Sellaphoraceae
+Description:它出现在河流和湖泊中。

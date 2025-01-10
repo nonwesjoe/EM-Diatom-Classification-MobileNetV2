@@ -1,0 +1,5 @@
+Category:Monoraphid
+Class:Bacillariophyceae
+Order:Achnanthales
+Family:Achnanthaceae
+Description:它们常见于“小型”水体，例如泉水、岩石和接触水的植物，尤其是瀑布；它们的范围从低电解质的中性低洼湿地到高电解质的碱性泉水

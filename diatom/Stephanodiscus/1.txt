@@ -1,0 +1,5 @@
+Category:Centric
+Class:Coscinodiscophyceae
+Order:Thalassiosirales
+Family:Stephanodiscaceae
+Description:浮游生物；也存在于高度污染或富含电解质的水域中。嗜碱。它出现在淡水和咸水中。

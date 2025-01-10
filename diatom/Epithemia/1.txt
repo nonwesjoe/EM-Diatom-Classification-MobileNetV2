@@ -1,0 +1,6 @@
+Category:Epithemioid
+Class:Bacillariophyceae
+Order:Rhopalodiales
+Family:Rhopalodiaceae
+Description:主要为附生植物；分布于中等或高电解质水域；也栖息于碱性温泉和温度高达 40°C 的咸水中.
+

@@ -1,0 +1,5 @@
+Category:Symmetric Biraphid
+Class:Bacillariophyceae
+Order:Naviculales
+Description:产地为芬兰。可能分布在从极地到上温带,淡水性,pH为中性种.
+

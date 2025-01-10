@@ -1,0 +1,4 @@
+Category:Symmetric Biraphid
+Class:Bacillariophyceae
+Order:Naviculales
+Family:Stauroneidaceae

@@ -1,0 +1,5 @@
+Category:Eunotioid
+Class:Bacillariophyceae
+Order:Eunotiales
+Family:Eunotiaceae
+Description:常见于贫营养或腐殖营养、电解质贫乏的水域。

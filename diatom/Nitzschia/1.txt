@@ -1,0 +1,5 @@
+Category:Nitzschioid
+Class:Bacillariophyceae
+Order:Bacillariales
+Family:Bacillariaceae
+Description:出现在从淡水到富含电解质的咸水。常见于潮湿和偶尔干燥的地区。

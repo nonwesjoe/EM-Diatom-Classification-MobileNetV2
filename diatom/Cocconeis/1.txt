@@ -1,0 +1,5 @@
+Category:Monoraphid
+Class:Bacillariophyceae
+Order:Achnanthales
+Family:Cocconeidaceae
+Description:附着在水草上的东西有时会与水草碎片一起进入浮游生物网,具有C型叶绿体.

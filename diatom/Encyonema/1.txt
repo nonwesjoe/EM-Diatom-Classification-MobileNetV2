@@ -1,0 +1,6 @@
+Category:Asymmetric Biraphid
+Class:Bacillariophyceae
+Order:Cymbellales
+Family:Cymbellaceae
+Description:类型产地是韩国的光川,生态尚不清楚，但似乎多出现在河流中下游流域，或者湖泊沿岸。
+
